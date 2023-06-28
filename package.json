@@ -1,0 +1,13 @@
+{
+  "name": "sdk-assemblyscript-openai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/blocklessnetwork/sdk-assemblyscript-openai",
+  "author": "Derek Anderson <dmikey@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@blockless/sdk": "^1.1.1",
+    "as-wasi": "^0.6.0",
+    "assemblyscript": "^0.27.5"
+  }
+}
