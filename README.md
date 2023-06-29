@@ -24,7 +24,7 @@ import { generateChatCompletion, Message } from "./openai/chat";
 
 ```typescript
 const apiKey = "key";  // Replace this with your actual OpenAI API key  
-const response = generateCompletion(apiKey,"text-davinci-003","Hello AI, tell me a joke.", 100);  
+const response = generateCompletion(apiKey, "text-davinci-003", "Hello AI, tell me a joke.", 100);  
 Console.log(response.toString());`
 ```
   
